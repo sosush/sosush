@@ -1,9 +1,10 @@
 <br clear="both">
 
-<h2 align="center">Hey👋! <br>My name is Sohini Banerjee and I'm currently an Engineering student</h2>
+<h2 align="center">Hey👋! I'm Sohini Banerjee</h2>
+
 
 ###
-
+<p>- B.Tech student at Vellore Institute of Technology, Chennai</p><br>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=2S00B5&locale=en&mode=daily&theme=midnight-purple&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" height="160" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=2S00B5&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=midnight-purple&hide_border=true&custom_title=Worked%20With" height="160" alt="languages graph"  />
