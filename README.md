@@ -1,6 +1,6 @@
 <br clear="both">
 
-![Header](./github-header-image.png)
+![Header](./github-header-image-2.png)
 
 <h1 align="center">Hey There 👋🏻!</h1>
 
