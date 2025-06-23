@@ -108,4 +108,6 @@
 
 <img src="https://raw.githubusercontent.com/sosush/sosush/output/snake.svg" alt="Snake animation" />
 
+</p>
+
 ###
