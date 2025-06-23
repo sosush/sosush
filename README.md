@@ -10,8 +10,8 @@
 - 📚 full-stack developer and cybersecurity enthusiast...</p>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=2S00B5&locale=en&mode=daily&theme=midnight-purple&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" height="160" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=2S00B5&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=midnight-purple&hide_border=true&custom_title=Worked%20With" height="160" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=sosush&locale=en&mode=daily&theme=midnight-purple&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" height="160" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sosush&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=midnight-purple&hide_border=true&custom_title=Worked%20With" height="160" alt="languages graph"  />
 </div>
 
 ###
@@ -54,7 +54,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/2S00B5/2S00B5/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/sosush/sosush/output/snake.svg" alt="Snake animation" />
 
 ###
 <br>
