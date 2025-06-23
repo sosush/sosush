@@ -2,8 +2,6 @@
 
 ![Header](./github-header-image-2.png)
 
-<h1 align="center">Hey There 👋🏻!</h1>
-
 ###
 
 <br clear="both">
