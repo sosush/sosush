@@ -4,6 +4,7 @@
 
 ###
 
+<p style="background-image: url('./github-header-image.png');">
 <br clear="both">
 
 <h4 align="left">-👩‍🎓 Studying BTech CSE<br>-👩🏻‍💻 Specializing in AI-ML Engineering <br>-🕸️ Worked in Web Development<br>-🔐 Cybersecurity Enthusiast<br>-🎧 Music == Life</h4>
