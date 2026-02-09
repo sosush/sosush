@@ -19,17 +19,17 @@
 <img align="right" width="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmt1czY3aXo1bmszZHpoODRvaTl3c2sxeWpvY29rbGowN3JqYzc3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/v3vhPWXjwsy9vNvaSd/giphy.gif" alt="Vibing Cat" />
 
 <!-- 2. The Skills (Standard Flow on the Left) -->
-<h3 align="left">🛠 Languages</h3>
+<h3 align="left">Languages</h3>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts,bash&theme=dark" height="40" alt="languages" />
 </div>
 
-<h3 align="left">🚀 Backend, AI & Security</h3>
+<h3 align="left">Backend, AI & Security</h3>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=fastapi,nodejs,docker,linux,postgres,mongodb,pytorch,tensorflow,supabase&theme=dark" height="40" alt="backend" />
 </div>
 
-<h3 align="left">🎨 Frontend & Tools</h3>
+<h3 align="left">Frontend & Tools</h3>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=react,tailwind,git,figma,postman,arduino&theme=dark" height="40" alt="frontend" />
 </div>
