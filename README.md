@@ -6,88 +6,35 @@
 
 ###
 
-<p align="center">I live at the intersection of design and data. I love crafting websites and have a restless curiosity for Cybersecurity research. I build smart systems, make them look good, and keep them secure.</p>
+<p align="center">
+  I live at the intersection of design and data. I have a restless curiosity for <b>Cybersecurity research</b> and <b>Algorithm Synthesis</b>. <br>
+  I build smart systems, make them look good, and keep them secure.
+</p>
 
 ###
-<img align="right" height="143" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmt1czY3aXo1bmszZHpoODRvaTl3c2sxeWpvY29rbGowN3JqYzc3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/v3vhPWXjwsy9vNvaSd/giphy.gif"  />
 
-###
+<br>
 
+<!-- THE CAT IS BACK (Aligned Right) -->
+<img align="right" height="160" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmt1czY3aXo1bmszZHpoODRvaTl3c2sxeWpvY29rbGowN3JqYzc3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/v3vhPWXjwsy9vNvaSd/giphy.gif" alt="Vibing Cat" />
+
+<!-- CLEANED UP TECH STACK (Aligned Left to sit next to the cat) -->
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
-  <img width="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="csharp logo"  />
-  <img width="32" />
-  <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
-  <img width="32" />
-  <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo"  />
-  <img width="32" />
-  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
-  <img width="32" />
-  <img src="https://skillicons.dev/icons?i=c" height="50" alt="c logo"  />
-  <img width="32" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="cplusplus logo"  />
-  <img width="32" />
-  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo"  />
-  <img width="32" />
-  <img src="https://skillicons.dev/icons?i=pycharm" height="50" alt="pycharm logo"  />
-  <img width="32" />
-  <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
-  <img width="32" />
-  <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo"  />
-  <img width="32" />
-  <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo"  />
-  <img width="32" />
-  <img src="https://skillicons.dev/icons?i=css" height="50" alt="css logo"  />
-  <img width="32" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss logo"  />
-  <img width="32" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="50" alt="fastapi logo"  />
-  <img width="32" />
-  <img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma logo"  />
-  <img width="32" />
-  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
-  <img width="32" />
-  <img src="https://skillicons.dev/icons?i=linux" height="50" alt="linux logo"  />
-  <img width="32" />
-  <img src="https://skillicons.dev/icons?i=matlab" height="50" alt="matlab logo"  />
-  <img width="32" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
-  <img width="32" />
-  <img src="https://skillicons.dev/icons?i=neovim" height="50" alt="neovim logo"  />
-  <img width="32" />
-  <img src="https://skillicons.dev/icons?i=netlify" height="50" alt="netlify logo"  />
-  <img width="32" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="mongodb logo"  />
-  <img width="32" />
-  <img src="https://skillicons.dev/icons?i=postman" height="50" alt="postman logo"  />
-  <img width="32" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="postgresql logo"  />
-  <img width="32" />
-  <img src="https://skillicons.dev/icons?i=powershell" height="50" alt="powershell logo"  />
-  <img width="32" />
-  <img src="https://skillicons.dev/icons?i=pytorch" height="50" alt="pytorch logo"  />
-  <img width="32" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="50" alt="supabase logo"  />
-  <img width="32" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="50" alt="tensorflow logo"  />
-  <img width="32" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="50" alt="vercel logo"  />
-  <img width="32" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo"  />
-  <img width="32" />
-  <img src="https://skillicons.dev/icons?i=vite" height="50" alt="vite logo"  />
-  <img width="32" />
-  <img src="https://skillicons.dev/icons?i=bash" height="50" alt="bash logo"  />
-  <img width="32" />
-  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
-  <img width="32" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo"  />
-  <img width="32" />
-  <img src="https://skillicons.dev/icons?i=arduino" height="50" alt="arduino logo"  />
+  
+  <h3>🛠 Languages</h3>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts,bash&theme=dark" height="45" alt="languages" />
+
+  <h3>🚀 Backend, AI & Security</h3>
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,docker,linux,postgres,mongodb,pytorch,tensorflow,supabase&theme=dark" height="45" alt="backend-ai" />
+
+  <h3>🎨 Frontend & Tools</h3>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,git,figma,postman,arduino&theme=dark" height="45" alt="frontend-tools" />
+
 </div>
+<!-- END TECH STACK -->
 
 <br clear="both">
+<br>
 
 <img src="https://raw.githubusercontent.com/sosush/sosush/output/snake.svg" alt="Snake animation" />
 
@@ -116,5 +63,3 @@
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=99&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&desc=@sosush&descSize=14&descAlign=50&descAlignY=34&textBg=false&color=ffb7ce"  />
 </div>
-
-###
