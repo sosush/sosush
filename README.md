@@ -1,65 +1,41 @@
-<!-- HEADER -->
-<div align="center">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=true&text=Hi,%20I%20am%20@sosush&fontSize=60&fontColor=FFFFFF&fontAlign=49&fontAlignY=50&rotate=0&stroke=-&strokeWidth=0&animation=fadeIn&desc=ANOTHER%20COFFEE%20FUELED%20CODER&descSize=12&descAlign=50&descAlignY=81&textBg=false&color=ffb7ce" />
-</div>
+# Hi, I'm Sohini Banerjee 👋
 
-<!-- BIO -->
-<h3 align="center">
-  I live at the intersection of design and data. I have a restless curiosity for <br>
-  <b>Cybersecurity research</b> and <b>Algorithm Synthesis</b>.
-</h3>
-<p align="center">
-  I build smart systems, make them look good, and keep them secure.
-</p>
+**B.Tech Computer Science & Engineering** | Aspiring SDE / ML Engineer  
+B.Tech CSE · ML systems, algorithms & security · building things that matter
 
-<br>
+[![Portfolio](https://img.shields.io/badge/Portfolio-sohinibanerjee.vercel.app-black?style=flat-square&logo=vercel)](https://sohinibanerjee.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sohini%20Banerjee-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sohini-banerjee-12882731b)
+[![LinkedIn](https://img.shields.io/badge/Leetcode-Sohini%20Banerjee-0077B5?style=flat-square&logo=leetcode)](https://www.leetcode.com/u/sb_1315)
 
-<!-- MAIN CONTENT SECTION (No Table = No Borders) -->
-<!-- 1. The Cat (Floated Right) -->
-<img align="right" width="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmt1czY3aXo1bmszZHpoODRvaTl3c2sxeWpvY29rbGowN3JqYzc3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/v3vhPWXjwsy9vNvaSd/giphy.gif" alt="Vibing Cat" />
+---
 
-<!-- 2. The Skills (Standard Flow on the Left) -->
-<h3 align="left">Languages</h3>
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts,bash&theme=dark" height="40" alt="languages" />
-</div>
+## About Me
 
-<h3 align="left">Backend, AI & Security</h3>
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,docker,linux,postgres,mongodb,pytorch,tensorflow,supabase&theme=dark" height="40" alt="backend" />
-</div>
+- B.Tech CSE, Vellore Institute of Technology, 2028
+- Interests: ML systems, algorithm design, applied cybersecurity
+- Seeking SDE / ML Engineering roles at product-driven and fintech companies
 
-<h3 align="left">Frontend & Tools</h3>
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,git,figma,postman,arduino&theme=dark" height="40" alt="frontend" />
-</div>
+---
 
-<!-- 3. Clear Float (Prevents Snake from jumping up) -->
-<br clear="both">
-<br>
+## Featured Projects
 
-<!-- SNAKE ANIMATION -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sosush/sosush/output/snake.svg" alt="Snake animation" width="100%" />
-</div>
+### [Genesis](https://github.com/sosush/Genesis)
+Neuro-symbolic program synthesis engine that evolves algorithmic logic using Darwinian principles — a neural fitness estimator acts as a fast pre-filter, reducing symbolic execution calls by ~4x over pure evolutionary search.  
+`Python` · `PyTorch` · `Genetic Algorithms` · `MLflow` · `Gradio`
 
-<br>
+### [NetSentinel](https://github.com/sosush/NetSentinel)
+End-to-end MLOps pipeline for network intrusion detection — multi-class threat classifier served via a FastAPI inference API, with MLflow experiment tracking, automated drift detection via Evidently AI, and weekly retraining on GitHub Actions.  
+`Python` · `Scikit-learn` · `FastAPI` · `MLflow` · `Docker` · `Evidently AI`
 
-<!-- MUSIC SECTION -->
-<h2 align="left">Welcome to my Music Obsession 🎧</h2>
+### [QuantLedger](https://github.com/sosush/QuantLedger)
+Personal finance intelligence platform with live portfolio P&L against market benchmarks, a quant-inspired risk-adjusted investment scoring model (Sharpe ratio, momentum, volatility), and ML-based transaction auto-categorization — deployed with JWT auth and a scheduled market data pipeline.  
+`Python` · `FastAPI` · `React` · `PostgreSQL` · `Redis` · `yfinance` · `Docker`
 
-<!-- Using Flex-like behavior via Align for Music -->
-<img align="left" width="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnAwbG80djZrbm92ajBqbGFnNXhkNjJubnkzcnJtNWljNDNmZm5yZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/AX8kTSf2ZOdEiXpyfX/giphy.gif" />
+---
 
-<div align="center">
-  <a href="https://open.spotify.com/user/31rg2gtqe3vca3odkxugqlslbbz4">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31rg2gtqe3vca3odkxugqlslbbz4&count=2&unique=true" alt="Spotify recently played" />
-  </a>
-</div>
+## Skills
 
-<br clear="both">
-
-<!-- FOOTER -->
-<div align="center">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&desc=@sosush&descSize=14&descAlign=50&descAlignY=34&textBg=false&color=ffb7ce" />
-</div>
+**Languages:** Python · C++ · Java · JavaScript · TypeScript · C · Bash  
+**ML / AI:** PyTorch · TensorFlow · Scikit-learn · MLflow · Evidently AI  
+**Backend:** FastAPI · Node.js · Docker · PostgreSQL · Redis · MongoDB  
+**Frontend:** React · Recharts · Tailwind CSS
