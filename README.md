@@ -1,19 +1,18 @@
-# Hi, I'm Sohini Banerjee 👋
+# Hi, I'm Sohini Banerjee 🫶🏻
 
-**B.Tech Computer Science & Engineering** | Aspiring SDE / ML Engineer  
-B.Tech CSE · ML systems, algorithms & security · building things that matter
+**Computer Science & Engineering Undergraduate**<br>
+<I>AI/Machine Learning · MLOps · Secure Systems · Flattering UI · Building things that matter</I>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-sohinibanerjee.vercel.app-black?style=flat-square&logo=vercel)](https://sohinibanerjee.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sohini%20Banerjee-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sohini-banerjee-12882731b)
-[![LinkedIn](https://img.shields.io/badge/Leetcode-Sohini%20Banerjee-0077B5?style=flat-square&logo=leetcode)](https://www.leetcode.com/u/sb_1315)
+[![Portfolio](https://img.shields.io/badge/Portfolio-blueviolet?style=for-the-badge)](https://sohinibanerjee.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sohini-banerjee-12882731b)
+[![Leetcode](https://img.shields.io/badge/Leetcode-darkslategray?style=for-the-badge)](https://www.leetcode.com/u/sb_1315)
 
 ---
 
 ## About Me
 
 - B.Tech CSE, Vellore Institute of Technology, 2028
-- Interests: ML systems, algorithm design, applied cybersecurity
-- Seeking SDE / ML Engineering roles at product-driven and fintech companies
+- Interests: ML-integrated Systems, Algorithm Design, Applied Cybersecurity
 
 ---
 
